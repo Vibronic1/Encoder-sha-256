@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Vibronic\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Vibronic\\.nuget\\packages"
+    ]
+  }
+}
